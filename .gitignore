@@ -1,0 +1,5 @@
+docs_heavy/
+docs_light/
+__pycache__/
+.streamlit/
+*.csv
